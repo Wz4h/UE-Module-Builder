@@ -1,3 +1,9 @@
+## Video Demo
+
+Bilibili: 【[UE插件] 一键添加C++模块】 https://www.bilibili.com/video/BV1Y7fAByEzv/?share_source=copy_web&vd_source=7c0f429dfce391615f0c93741056b2e9
+
+---
+
 # Module Builder
 
 A lightweight Unreal Engine editor tool that allows you to quickly create and register new C++ modules for your Project or Project Plugins.
@@ -50,8 +56,4 @@ After creation:
 Unreal Engine 5.6
 Visual Studio 2022
 
----
 
-## Author
-
-Zhihao Wang
